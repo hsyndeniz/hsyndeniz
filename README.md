@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working and looking to collaborate on [Rely Wallet](https://github.com/craftlabs-tech/rely-wallet)
 
-- 👨‍💻 All of my projects are available at [https://craftlabs.tech](https://craftlabs.tech)
-
-- 💬 Ask me about **web3**
+- 👨‍💻 All of my projects are available at [craftlabs.tech](https://craftlabs.tech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
