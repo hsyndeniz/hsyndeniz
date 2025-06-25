@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Huseyin</h1>
 <h3 align="center">A passionate full-stack & blockchain developer from Istanbul, Turkiye</h3>
 
-<p align="left"> <a href="https://twitter.com/huseyindeniz_" target="blank"><img src="https://img.shields.io/twitter/follow/huseyindeniz_?logo=twitter&style=for-the-badge" alt="huseyindeniz_" /></a> </p>
-
 - 🔭 I’m currently working on [Rely Wallet](https://github.com/craftlabs-tech/Rely-Wallet)
 
 - 🌱 I’m currently learning **EVM Core, Rust, ZK**
 
 - 💬 Ask me about **React Native, Node/Nest.js, Solana, EVM, DevOps**
-
-- 📫 How to reach me **huseyin.deniz1@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
